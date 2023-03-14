@@ -4,7 +4,7 @@
 /**
  * _strdup - Duplicate a string using malloc
  * @str: string to duplicate
- * return: Pointer to the new allocated space in memory
+ * Return: Pointer to a the new duped string
  */
 
 char *_strdup(char *str)
